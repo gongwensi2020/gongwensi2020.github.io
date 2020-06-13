@@ -40,11 +40,11 @@ workHistory:
 
 educationHistory:
 - education1:
-  organization: 安徽大学
+  organization: 河南科技大学
   degree: 学士
-  major: 化学工程与工艺
-  started: 2010
-  duration: (2010.9 - 2014.7)
+  major: 日语
+  started: 2013
+  duration: (2013.9 - 2017.7)
   description: 自学 C/C++, Java, Linux, 培训并参加过 ACM 比赛
 languages:
 - language1:
@@ -52,7 +52,10 @@ languages:
   proficiency: Native
 - language2:
   name: English
-  proficiency: Limit
+  proficiency: Excellent
+- language3:
+  name: 日本語
+  proficiency: Excellent
 programmingSkills:
 - Java:
   name: Java/Android
