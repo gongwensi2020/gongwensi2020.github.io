@@ -34,18 +34,17 @@ languages:
   name: 中文
   proficiency: Native
 - language2:
-  name: English
-  proficiency: Excellent
-- language3:
   name: 日本語
   proficiency: Excellent
-programmingSkills:
+- language3:
+  name: English
+  proficiency: Excellent
+
+Skills:
 - Office:
   name: Word、PPT、Excel
   percentage: 90%
 - Ps:
   name: Photoshop
   percentage: 85%
-- CPP:
-  name: C/C++
-  percentage: 80%
+
