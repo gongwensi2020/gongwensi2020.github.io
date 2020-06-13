@@ -6,7 +6,7 @@ email: gongwensi000@163.com
 github: gongwensi2020
 gavatar: /assets/img/avatar.JPG
 workHistory:
-- work4:
+- work2:
   company: 三中贸易有限公司
   location: 中国, 广州
   title: 跨境电商运营
@@ -14,7 +14,7 @@ workHistory:
   duration: (2017.8 - Present)
   description: 负责运营公司在海外的Amazon站点，其中独立负责日本站点的平台运营和推广，协助意大利、英国站点的运营；结合公司产品线进行销售工作，妥善回答、解决销售过程中海外客户的各种咨询和问题；日本站点公司销售订单从每日0单提高到每日200单。成功打造爆品产品，进入亚马逊站点单产品排名榜前十。
 
-- work3:
+- work1:
   company: 上海大银幕网络科技有限公司
   location: 中国，上海
   title: Android 开发工程师
@@ -22,30 +22,21 @@ workHistory:
   duration: (2015.10 - 2016.5)
   description: 开发和维护 "公证电影" App
 
-- work2:
-  company: 比亚迪精密制造上海分公司
-  location: 中国，上海
-  title: Android 开发工程师
-  started: 2014
-  duration: (2014.8 - 2015.8)
-  description: 在Android系统环境下修复所存在的 bug, 并开发新功能, 主要负责 RIL/Telephony
-
-- work1:
-  company: 合肥卓远电子科技有限公司
-  location: 中国, 合肥
-  title: Linux 程序员
-  started: 2013
-  duration: (2013.6 - 2013.9)
-  description: 在嵌入式 Linux 环境下开发程序 (信号发生器，监控摄像头)
-
 educationHistory:
-- education1:
+- education2:
   organization: 河南科技大学
   degree: 学士
   major: 日语
   started: 2013
   duration: (2013.9 - 2017.7)
-  description: 自学 C/C++, Java, Linux, 培训并参加过 ACM 比赛
+  description: 熟练掌握日语口语和书面表达，能够进行日语无障碍交流；通过日语等级考试，取得日语N2证书；选派为交换生赴日本进行为期一年的交流学习；担任青年志愿者协会副部长，策划、举办爱心活动。
+- education1:
+  organization: 日本至学馆大学
+  degree: 交换生
+  major: 日语
+  started: 2015
+  duration: (2015.3 - 2016.3)
+  description: 自学 C/C++, Java, Linux, 培训并参加过 ACM 比赛 
 languages:
 - language1:
   name: 中文
